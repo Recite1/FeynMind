@@ -1,9 +1,9 @@
 // app/page.js
-import SnapChef from '@/components/snapchef';
+import SnapChef from '@/components/feynmind';
 
 export const metadata = {
-  title: 'SnapChef - Scan Your Ingredients',
-  description: 'Turn your fridge contents into delicious recipes',
+  title: 'Feynmind - Your AI Study Companion',
+  description: 'Feynmind is an AI-powered study companion that helps you learn and understand complex topics through interactive flashcards and personalized study plans.',
 };
 
 export default function Home() {
